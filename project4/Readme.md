@@ -20,12 +20,12 @@ This repository contains a simple backend application built using Express.js, Pr
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 
 - Node.js and npm installed on your machine.
 - Git (optional) for cloning the repository.
 
-## Installation
+### Installation
 
 1. Clone this repository.
 
