@@ -1,4 +1,4 @@
-### Express Prisma SQLite Backend for User Notes
+# Express Prisma SQLite Backend for User Notes
 
 This repository contains a simple backend application built using Express.js, Prisma, SQLite, JSON Web Tokens (JWT), Zod for validation, and bcrypt for password hashing. The application enables users to manage notes after creating an account.
 
